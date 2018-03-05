@@ -1,4 +1,3 @@
-baseURL = "http://example.netlify.com/"
+baseURL = "https://mismith-hugo-netlify-sample.netlify.com/"
 languageCode = "ja"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Hugo Netlify Sample"
